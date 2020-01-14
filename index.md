@@ -11,4 +11,3 @@
 ### Research
 #### natural language processing,machine translation
 
-%You can use the [editor on GitHub](https://github.com/Joyxj/xiaojingshi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
